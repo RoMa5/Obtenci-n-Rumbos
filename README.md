@@ -25,4 +25,4 @@ Agregaremos las librerías necesarias que necesitará el programa
 ### Manejo de Datos
 Se manejaron datos .csv los cuales contenían las coordenadas que necesitábamos para la realización de este programa, también un bloc de notas, archivo de texto el cual está delimi-tado por comas.
 ### Conclusiones 
-Gracias a los vídeos vistos y críticas de com-pañeros de la facultad y externos a ella nos dieron las herramientas para solucionar los problemas que se presentaron, funcionó de manera adecuada, como se esperaba, se com-plicó con el uso de librerías y el acomodo del código ya que Python es un lenguaje que res-peta la indentación y eso influye en que el programa compile de manea correcta.
+Gracias a los vídeos vistos y críticas de com-pañeros de la facultad y externos a ella nos dieron las herramientas para solucionar los problemas que se presentaron, funcionó de manera adecuada, como se esperaba, se com-plicó con el uso de librerías y el acomodo del código ya que Python es un lenguaje que res-peta la indentación y eso influye en que el programa compile de manea correcta
