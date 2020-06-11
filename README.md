@@ -6,7 +6,7 @@ Emanuel Rodríguez Maldonado
 Se pretende crear un programa en lenguaje Python el cual nos genere rumbos a partir de coordenadas que el usuario le proporcione, esto con el objetivo de ahorrarle tiempo que gastaría hacerlo manualmente.
 - Palabras clave: Rumbos, Coordenadas.
 ### Introducción
-La obtención de valores que requiere un In-geniero Topógrafo Geomático, en este caso rumbos son de gran utilidad en su día a día ya que esos rumbos son fundamentales para los cálculos que requiera hacer, sea cual sea su proyecto a realizar en donde se necesitan conocer: coordenadas, rumbos, vértices, dis-tancias y demás elementos necesarios por ello se decidió hacer un programa el cual ahorre el tiempo del usuario haciendo uso de las tecnologías de información.
+La obtención de valores que requiere un Ingeniero Topógrafo Geomático, en este caso rumbos son de gran utilidad en su día a día ya que esos rumbos son fundamentales para los cálculos que requiera hacer, sea cual sea su proyecto a realizar en donde se necesitan conocer: coordenadas, rumbos, vértices, dis-tancias y demás elementos necesarios por ello se decidió hacer un programa el cual ahorre el tiempo del usuario haciendo uso de las tecnologías de información.
 ### Función del programa
 El programa pretende funcionar de la siguien-te manera.
 Se darán ciertas coordenadas las cuales por medio de algunos cálculos matemáticos nos darán el rumbo que tienen.
