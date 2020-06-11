@@ -3,7 +3,7 @@
 Emanuel Rodríguez Maldonado
 - Ingeniero Topografo Geomatico, Facultad de Ingeniería Civil, Coquimatlán 28400, Colima, emanuelalejandro_rodriguez@ucol.mx
 #### Resumen
-Se realizó un programa en lenguaje Python que sea capaz de obtener correctamente el calculo de interés anual, conociendo así las cifras que tendrá año con año, dependiendo el tiempo que el usuario desee saber, las cuales estarán afectadas por el aumento en el interés que también deberá de ser ingresado por el usuario.
+Se pretende crear un programa en lenguaje Python el cual nos genere rumbos a partir de coordenadas que el usuario le proporcione, esto con el objetivo de ahorrarle tiempo que gastaría hacerlo manualmente.
 - Palabras clave: Rumbos, Coordenadas.
 ### Introducción
 La obtención de valores que requiere un In-geniero Topógrafo Geomático, en este caso rumbos son de gran utilidad en su día a día ya que esos rumbos son fundamentales para los cálculos que requiera hacer, sea cual sea su proyecto a realizar en donde se necesitan conocer: coordenadas, rumbos, vértices, dis-tancias y demás elementos necesarios por ello se decidió hacer un programa el cual ahorre el tiempo del usuario haciendo uso de las tecnologías de información.
